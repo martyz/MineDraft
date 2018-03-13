@@ -1,0 +1,10 @@
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\bin\Debug\netcoreapp2.0\StarUp.deps.json
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\bin\Debug\netcoreapp2.0\StarUp.runtimeconfig.json
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\bin\Debug\netcoreapp2.0\StarUp.runtimeconfig.dev.json
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\bin\Debug\netcoreapp2.0\StarUp.dll
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\bin\Debug\netcoreapp2.0\StarUp.pdb
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\obj\Debug\netcoreapp2.0\StarUp.csproj.CoreCompileInputs.cache
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\obj\Debug\netcoreapp2.0\StarUp.AssemblyInfoInputs.cache
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\obj\Debug\netcoreapp2.0\StarUp.AssemblyInfo.cs
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\obj\Debug\netcoreapp2.0\StarUp.dll
+C:\Users\Losh17\Documents\Visual Studio 2017\Projects\Minedraft\StarUp\obj\Debug\netcoreapp2.0\StarUp.pdb
